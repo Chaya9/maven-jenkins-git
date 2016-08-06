@@ -12,7 +12,7 @@ public class DemoA {
 	public void testA(){
 		WebDriver driver = new FirefoxDriver();
 		driver.get("https://www.google.co.in/");
-		System.out.println("Maven-Jenkins-test");
+		System.out.println("Maven-Jenkins-test1");
 		driver.close();
 		
 	}
